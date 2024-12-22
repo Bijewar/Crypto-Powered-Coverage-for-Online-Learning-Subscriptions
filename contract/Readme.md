@@ -152,4 +152,3 @@ MIT
 ---
 
 Built with ❤️ for ETHGlobal Hackathon 2024.
-Join our community: [Discord](https://discord.gg/cryptocoverage)
